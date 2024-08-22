@@ -1,0 +1,39 @@
+
+        <orders>
+            <order>
+                <no>1</no>
+                <reg_date>2024-08-21</reg_date>
+                <user>
+                    <fio>John Doe</fio>
+                    <email>john.doe@example.com</email>
+                    <password>securepassword</password>
+                </user>
+                <product>
+                    <name>Product1</name>
+                    <price>99.99</price>
+                    <description>Product 1 Description</description>
+                    <quantity>2</quantity>
+                </product>
+                <product>
+                    <name>Product2</name>
+                    <price>29.99</price>
+                    <description>Product 2 Description</description>
+                    <quantity>1</quantity>
+                </product>
+            </order>
+            <order>
+                <no>2</no>
+                <reg_date>2024-08-22</reg_date>
+                <user>
+                    <fio>Jane Smith</fio>
+                    <email>jane.smith@example.com</email>
+                    <password>anotherpassword</password>
+                </user>
+                <product>
+                    <name>Product3</name>
+                    <price>49.99</price>
+                    <description>Product 3 Description</description>
+                    <quantity>3</quantity>
+                </product>
+            </order>
+        </orders>

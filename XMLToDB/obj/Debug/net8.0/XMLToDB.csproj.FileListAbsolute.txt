@@ -70,3 +70,4 @@ C:\Users\Anton\source\repos\XMLToDB\XMLToDB\obj\Debug\net8.0\refint\XMLToDB.dll
 C:\Users\Anton\source\repos\XMLToDB\XMLToDB\obj\Debug\net8.0\XMLToDB.pdb
 C:\Users\Anton\source\repos\XMLToDB\XMLToDB\obj\Debug\net8.0\XMLToDB.genruntimeconfig.cache
 C:\Users\Anton\source\repos\XMLToDB\XMLToDB\obj\Debug\net8.0\ref\XMLToDB.dll
+C:\Users\Anton\source\repos\XMLToDB\XMLToDB\obj\Debug\net8.0\XMLToDB.sourcelink.json

@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\Anton\\source\\repos\\XMLToDB\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{EFF1084E-BE19-4A53-A50F-447AD7748685}|XMLToDB.Tests\\XMLToDB.Tests.csproj|c:\\users\\anton\\source\\repos\\xmltodb\\xmltodb.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFF1084E-BE19-4A53-A50F-447AD7748685}|XMLToDB.Tests\\XMLToDB.Tests.csproj|solutionrelative:xmltodb.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{8FB208A5-926A-4584-A1B6-626211D2193B}|XMLToDB\\XMLToDB.csproj|c:\\users\\anton\\source\\repos\\xmltodb\\xmltodb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8FB208A5-926A-4584-A1B6-626211D2193B}|XMLToDB\\XMLToDB.csproj|solutionrelative:xmltodb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -19,12 +23,25 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\Anton\\source\\repos\\XMLToDB\\XMLToDB.Tests\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "XMLToDB.Tests\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\Anton\\source\\repos\\XMLToDB\\XMLToDB.Tests\\UnitTest1.cs",
+              "RelativeToolTip": "XMLToDB.Tests\\UnitTest1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T15:37:57.643Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Anton\\source\\repos\\XMLToDB\\XMLToDB\\Program.cs",
               "RelativeDocumentMoniker": "XMLToDB\\Program.cs",
               "ToolTip": "C:\\Users\\Anton\\source\\repos\\XMLToDB\\XMLToDB\\Program.cs",
               "RelativeToolTip": "XMLToDB\\Program.cs",
-              "ViewState": "AgIAAIMAAAAAAAAAAAAAwJAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAB4BAAAAAAAAAAAQwCcBAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-14T18:00:04.657Z",
               "EditorCaption": ""
